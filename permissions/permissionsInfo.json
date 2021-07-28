@@ -1,0 +1,14 @@
+{
+    "permissions": {
+        "Site Owner": 110,
+        "Owner": 100,
+        "Head Admin": 90,
+        "Senior Admin": 80,
+        "Admin": 70,
+        "Management": 60
+    },
+    "actions": {
+        "READ_APPLICATIONS": 60,
+        "MANAGE_APPLICATIONS": 70 
+    }
+}
